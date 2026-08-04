@@ -1,8 +1,8 @@
 {
-  "version": "1.4.1",
-  "date": "2026-08-03",
-  "installer": "https://github.com/regina25846-code/kris-memo/releases/download/v1.4.1/K-Memo.Setup.1.4.1.exe",
-  "portable": "https://github.com/regina25846-code/kris-memo/releases/download/v1.4.1/K-Memo-1.4.1-portable.exe",
+  "version": "1.4.2",
+  "date": "2026-08-04",
+  "installer": "https://github.com/regina25846-code/kris-memo/releases/download/v1.4.2/K-Memo.Setup.1.4.2.exe",
+  "portable": "https://github.com/regina25846-code/kris-memo/releases/download/v1.4.2/K-Memo-1.4.2-portable.exe",
   "page": "https://regina25846-code.github.io/kris-memo/update/",
-  "changelog": "K시리즈 앱 디자인 균일화 작업(K-Music 스타일 스킨 4종 적용), 메모 제목 자동화(내용 첫 줄이 제목), 새 메모 창 크기 확대, 우클릭 메뉴 위치 버그 수정, 탭 라벨 디자인 및 기능 개선(드래그로 상하 이동 가능), 자동 업데이트 기능 추가(프로그램정보 카드에서 업데이트)"
+  "changelog": "메모 목록 제목순 정렬로 통일, 폴더 잠금이 하위 폴더까지 함께 적용되도록 개선, 목록 더블클릭 오류 수정, 모든 메모 닫을 때 저장 안 되던 문제 수정, 잠긴 폴더 보안 강화"
 }
