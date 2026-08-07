@@ -1,8 +1,8 @@
 {
-  "version": "1.4.2",
-  "date": "2026-08-04",
-  "installer": "https://github.com/regina25846-code/kris-memo/releases/download/v1.4.2/K-Memo.Setup.1.4.2.exe",
-  "portable": "https://github.com/regina25846-code/kris-memo/releases/download/v1.4.2/K-Memo-1.4.2-portable.exe",
+  "version": "1.4.3",
+  "date": "2026-08-07",
+  "installer": "https://github.com/regina25846-code/kris-memo/releases/download/v1.4.3/K-Memo.Setup.1.4.3.exe",
+  "portable": "https://github.com/regina25846-code/kris-memo/releases/download/v1.4.3/K-Memo-1.4.3-portable.exe",
   "page": "https://regina25846-code.github.io/kris-memo/update/",
-  "changelog": "메모 목록 제목순 정렬로 통일, 폴더 잠금이 하위 폴더까지 함께 적용되도록 개선, 목록 더블클릭 오류 수정, 모든 메모 닫을 때 저장 안 되던 문제 수정, 잠긴 폴더 보안 강화"
+  "changelog": "일정 검색 기능 추가, To-do 리스트 한눈에 보기로 개편, 업데이트 안정성 개선"
 }
