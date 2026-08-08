@@ -1,8 +1,8 @@
 {
-  "version": "1.4.4",
-  "date": "2026-08-07",
-  "installer": "https://github.com/regina25846-code/kris-memo/releases/download/v1.4.4/K-Memo.Setup.1.4.4.exe",
-  "portable": "https://github.com/regina25846-code/kris-memo/releases/download/v1.4.4/K-Memo-1.4.4-portable.exe",
+  "version": "1.4.5",
+  "date": "2026-08-08",
+  "installer": "https://github.com/regina25846-code/kris-memo/releases/download/v1.4.5/K-Memo.Setup.1.4.5.exe",
+  "portable": "https://github.com/regina25846-code/kris-memo/releases/download/v1.4.5/K-Memo-1.4.5-portable.exe",
   "page": "https://regina25846-code.github.io/kris-memo/update/",
-  "changelog": "메모창 스크롤 상태에서 위쪽 드래그로 창 이동 안 되던 문제 수정, 메모 상단 드래그 시 버튼이 내용에 끼어들던 문제 수정"
+  "changelog": "인증 서버 연결 방식 개선(보안 강화)"
 }
