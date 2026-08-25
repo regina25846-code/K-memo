@@ -1,8 +1,8 @@
 {
-  "version": "1.4.6",
-  "date": "2026-08-16",
-  "installer": "https://github.com/regina25846-code/kris-memo/releases/download/v1.4.6/K-Memo.Setup.1.4.6.exe",
-  "portable": "https://github.com/regina25846-code/kris-memo/releases/download/v1.4.6/K-Memo-1.4.6-portable.exe",
+  "version": "1.5.1",
+  "date": "2026-08-25",
+  "installer": "https://github.com/regina25846-code/kris-memo/releases/download/v1.5.1/K-Memo.Setup.1.5.1.exe",
+  "portable": "https://github.com/regina25846-code/kris-memo/releases/download/v1.5.1/K-Memo-1.5.1-portable.exe",
   "page": "https://regina25846-code.github.io/kris-memo/update/",
-  "changelog": "보안폴더 심층 암호화 적용, 붙여넣기할 때 배경색·폰트 안 딸려오게 수정, 메모 이미지 복사 기능 추가, 백업 알림 문구 정리"
+  "changelog": "프로그램 정보 창 디자인 새단장, 새 아이콘 적용"
 }
