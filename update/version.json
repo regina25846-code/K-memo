@@ -1,8 +1,8 @@
 {
-  "version": "1.5.1",
-  "date": "2026-08-25",
-  "installer": "https://github.com/regina25846-code/kris-memo/releases/download/v1.5.1/K-Memo.Setup.1.5.1.exe",
-  "portable": "https://github.com/regina25846-code/kris-memo/releases/download/v1.5.1/K-Memo-1.5.1-portable.exe",
-  "page": "https://regina25846-code.github.io/kris-memo/update/",
-  "changelog": "프로그램 정보 창 디자인 새단장, 새 아이콘 적용"
+  "version": "1.6.0",
+  "date": "2026-08-28",
+  "installer": "https://github.com/regina25846-code/K-memo/releases/download/v1.6.0/K-Memo.Setup.1.6.0.exe",
+  "portable": "https://github.com/regina25846-code/K-memo/releases/download/v1.6.0/K-Memo-1.6.0-portable.exe",
+  "page": "https://regina25846-code.github.io/K-memo/update/",
+  "changelog": "라이선스 보안 강화, 인터넷 문제로 잘못 잠기던 현상 수정, 잠긴 상태에서도 내 메모 내보내기 가능"
 }
