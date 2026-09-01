@@ -1,8 +1,8 @@
 {
-  "version": "1.6.1",
+  "version": "1.6.2",
   "date": "2026-09-01",
-  "installer": "https://github.com/regina25846-code/K-memo/releases/download/v1.6.1/K-Memo.Setup.1.6.1.exe",
-  "portable": "https://github.com/regina25846-code/K-memo/releases/download/v1.6.1/K-Memo-1.6.1-portable.exe",
+  "installer": "https://github.com/regina25846-code/K-memo/releases/download/v1.6.2/K-Memo.Setup.1.6.2.exe",
+  "portable": "https://github.com/regina25846-code/K-memo/releases/download/v1.6.2/K-Memo-1.6.2-portable.exe",
   "page": "https://regina25846-code.github.io/K-memo/update/",
-  "changelog": "프로그램 종료할 때 튕기던 오류 수정, 창 전환 안정성 개선"
+  "changelog": "메모 저장 폴더 이전에 따른 데이터 복구, 설정창에 메모·사이드바 글꼴 미리보기 추가, 일정 장소 검색 동작 수정"
 }
