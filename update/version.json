@@ -1,8 +1,8 @@
 {
-  "version": "1.6.3",
-  "date": "2026-09-14",
-  "installer": "https://github.com/regina25846-code/K-memo/releases/download/v1.6.3/K-Memo.Setup.1.6.3.exe",
-  "portable": "https://github.com/regina25846-code/K-memo/releases/download/v1.6.3/K-Memo-1.6.3-portable.exe",
+  "version": "1.6.4",
+  "date": "2026-10-09",
+  "installer": "https://github.com/regina25846-code/K-memo/releases/download/v1.6.4/K-Memo.Setup.1.6.4.exe",
+  "portable": "https://github.com/regina25846-code/K-memo/releases/download/v1.6.4/K-Memo-1.6.4-portable.exe",
   "page": "https://memo.krisb-infra.com/update/",
-  "changelog": "폴더 잠금 표시를 잠김은 빨간색, 열림은 초록색으로 구분, 일부 환경에서 새 메모가 만들어지지 않던 문제 수정, 버그 픽스"
+  "changelog": "새 로고·사용법 추가, 메모 삭제·복원 경고 강화, 끌어 옮기기 오류 수정"
 }
