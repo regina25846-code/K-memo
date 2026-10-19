@@ -1,8 +1,8 @@
 {
-  "version": "1.6.4",
-  "date": "2026-10-09",
-  "installer": "https://github.com/regina25846-code/K-memo/releases/download/v1.6.4/K-Memo.Setup.1.6.4.exe",
-  "portable": "https://github.com/regina25846-code/K-memo/releases/download/v1.6.4/K-Memo-1.6.4-portable.exe",
+  "version": "1.7.0",
+  "date": "2026-10-20",
+  "installer": "https://github.com/regina25846-code/K-memo/releases/download/v1.7.0/K-Memo.Setup.1.7.0.exe",
+  "portable": "https://github.com/regina25846-code/K-memo/releases/download/v1.7.0/K-Memo-1.7.0-portable.exe",
   "page": "https://memo.krisb-infra.com/update/",
-  "changelog": "새 로고·사용법 추가, 메모 삭제·복원 경고 강화, 끌어 옮기기 오류 수정"
+  "changelog": "휴지통·메모 알림·체크칸 목록 추가, 메모 탭 맨 위 오늘의 글, 다른 컴퓨터로 옮기기 쉽게(인증 해제·설정까지 백업), 직접 해 보는 사용법"
 }
